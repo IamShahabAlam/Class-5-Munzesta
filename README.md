@@ -20,7 +20,7 @@ A Quiz App built with Flutter.
 
 ## Credits
 
- [ Shahab Alam](https://github.com/IamShahabAlam)  :octocat: 
+ [ Shahab Alam](https://github.com/IamShahabAlam)  :octocat: <br/><br/>
 [ Shahab Alam](https://www.facebook.com/iamShahabAlam/)
 
 > :blue_heart:  Fluttering
