@@ -24,4 +24,4 @@ A Quiz App built with Flutter.
 <!-- :octocat: -->
 [ Shahab Alam](https://www.facebook.com/iamShahabAlam/)
 
-> :blue_heart: Fluttering
+> :blue_heart:  Fluttering
